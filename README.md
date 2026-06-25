@@ -1,2 +1,2 @@
-# Embedded-system-projects
-Projects I tried with Arduino and esp32
+# arduino-sandbox
+Learning how to operate various sensors via Arduino.
